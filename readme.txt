@@ -4,5 +4,4 @@ Git is free software.
 this is my test.
 today is 2017-4-5
 what's wrong
-=======
-this is branch master
+Creating a new branch is quick and simple.
